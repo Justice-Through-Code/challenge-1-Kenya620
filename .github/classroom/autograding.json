@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "TestTempConversion",
+      "setup": "",
+      "run": "python -m unittest temp_conversion_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
